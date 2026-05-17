@@ -2,8 +2,6 @@
 
 A Power BI dashboard built for **Fitbit** (mockup), tracking cross-channel digital marketing performance across **$411K+ in conversion value** from 9,500 customers — designed to optimize ad spend, identify high-performing platforms, and eliminate budget waste.
 
-[Watch the Video Walkthrough Here](link)
-
 ---
 
 ## Business Problem & Objective
